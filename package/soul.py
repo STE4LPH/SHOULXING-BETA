@@ -1,7 +1,7 @@
 import re
 import json
 import xml.etree.ElementTree as ET
-from rich import print
+#from rich import print
 class ModArchifrex:
     def __init__(self, path='/data/data/com.ChillyRoom.DungeonShooter'):
         self.path = path
